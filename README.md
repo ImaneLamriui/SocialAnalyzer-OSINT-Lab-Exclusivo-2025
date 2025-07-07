@@ -17,4 +17,21 @@ Todas las fases están ilustradas paso a paso en imágenes.
 > Enfoque: Educación en ciberseguridad, análisis OSINT
 
 ---
+
+<img src="1-s">
+
+<img src="2s">
+<img src="3s">
+<img src="4s">
+<img src="5s">
+<img src="7s">
+<img src="8s">
+<img src="8s">
+<img src="10s">
+<img src="11s">
+<img src="12s">
+<img src="13s">
+<img src="14s">
+<img src="15s">
+
 **Este laboratorio se ha realizado únicamente con fines educativos y defensivos.**
