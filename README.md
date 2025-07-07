@@ -4,7 +4,7 @@ Este repositorio contiene mi laboratorio completo, actualizado y exclusivo sobre
 
 ---
 
-## 🔍 Contenido del laboratorio
+## Contenido del laboratorio
 
 ### Fase 1: Entorno y configuración
 
