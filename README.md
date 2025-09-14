@@ -1,9 +1,5 @@
 # Laboratorio: Social Analyzer en Kali Linux 2025.1c
 
-Este repositorio contiene mi laboratorio completo, actualizado y exclusivo sobre el uso de **Social Analyzer** tanto en su modo CLI como en su versión WebApp. El análisis se ha realizado en Kali Linux 2025.1c, y se ha documentado todo el proceso, incluyendo ajustes necesarios debido a cambios recientes en la herramienta.
-
----
-
 ## Contenido del laboratorio
 
 ### Fase 1: Entorno y configuración
