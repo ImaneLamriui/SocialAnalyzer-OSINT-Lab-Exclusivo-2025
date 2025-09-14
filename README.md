@@ -64,17 +64,29 @@ Este laboratorio fue realizado con fines exclusivamente educativos y defensivos.
 <img src="1-s.png">
 
 <img src="2-s.png">
+
 <img src="3-s.png">
+
 <img src="4-s.png">
+
 <img src="5-s.png">
+
 <img src="7-s.png">
+
 <img src="8-s.png">
+
 <img src="9-s.png">
+
 <img src="10-s.png">
+
 <img src="11-s.png">
+
 <img src="12-s.png">
+
 <img src="13-s.png">
+
 <img src="14-s.png">
+
 <img src="15-s.png">
 
 **Este laboratorio se ha realizado únicamente con fines educativos y defensivos.**
